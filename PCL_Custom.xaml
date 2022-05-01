@@ -3,7 +3,7 @@
      如果你倒腾这个文件把 PCL2 玩炸了，把这个文件直接删除就行了。
      如果你懂得 WPF 的布局文件编写，你甚至可以做出不少的新玩意儿…… -->
     
-<local:MyCard Title="基础教学 1：纯文本">
+<local:MyCard Title="Hello World 基础教学 1：纯文本">
     <StackPanel Margin="25,40,23,15">
         <TextBlock Margin="0,0,0,4"
                    Text="每个 local:MyCard 代表一张卡片，你可以添加、删除格式类似的 MyCard 来添加多个卡片。每个 TextBlock 代表一段文本，你可以在 Text 中书写任何你想写的内容。你也可以自行添加更多的 TextBlock。" />
